@@ -4,3 +4,4 @@ An interactive Power BI dashboard analyzing Zomato data to uncover key insights 
 <br>
 <br>
 <img src="https://github.com/MehulGojiya/Zomato-Sales-Dashboard/blob/78147e8f98abb4fc36a02e5113353b6af31c3d00/Dashboard%20final.png" alt="Image Description" width="600">
+<br>
